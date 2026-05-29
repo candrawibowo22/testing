@@ -1,6 +1,4 @@
-# Project Name
-
-Hi, I'm Candra 👋
+# Hi, I'm Candra 👋
 
 I'm passionate about creating stylized visual content using 3D animation, motion graphics, and cinematic editing techniques. Most of my work revolves around Blender-based animation pipelines combined with compositing and post-production in Adobe After Effects and Premiere Pro.
 I enjoy experimenting with animation styles, camera movements, visual effects, and rendering workflows inspired by modern anime and game cinematics.
